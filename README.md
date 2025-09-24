@@ -289,11 +289,4 @@ Open your web browser and navigate to `http://localhost:3000`
 
 This project is open-source and available under the MIT License.
 
-## Support
 
-For support, feature requests, or bug reports, please create an issue in the project repository or contact the development team.
-
----
-
-
-**Built with ❤️ for modern retail businesses**
