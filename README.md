@@ -69,7 +69,7 @@ Before setting up the POS system, ensure you have the following installed:
 
 ### 1. Clone or Extract the Project
 ```bash
-cd C:\\Users\\Dimas12\\pos-system
+cd directory\pos-system
 ```
 
 ### 2. Backend Setup (Laravel API)
@@ -294,5 +294,6 @@ This project is open-source and available under the MIT License.
 For support, feature requests, or bug reports, please create an issue in the project repository or contact the development team.
 
 ---
+
 
 **Built with ❤️ for modern retail businesses**
